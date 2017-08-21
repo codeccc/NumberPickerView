@@ -70,7 +70,8 @@ https://github.com/Carbs0126/GregorianLunarCalendar
 ```
 
 ### 使用方法
-====
+==== 
+
 1.导入至工程
 ```groovy
     compile 'cn.carbswang.android:NumberPickerView:1.1.1'
@@ -200,7 +201,9 @@ https://github.com/Carbs0126/GregorianLunarCalendar
 ```
     
 ### 版本更新
+
 ====
+
 #### 1.1.1
 1.添加更改文字typeface的方法<br>
 2.添加滑动过程中响应valuechange的方法<br>
@@ -238,7 +241,9 @@ https://github.com/Carbs0126/GregorianLunarCalendar
 
 
 ### 主要原理
+
 ====
+
 #### 1.滚动效果的产生：
 `Scroller` + `VelocityTracker` + `onDraw(Canvas canvas)`
 
